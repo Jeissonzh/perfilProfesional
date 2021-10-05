@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-size: initial;
+    background-repeat: no-repeat;
+    width: 85%;
+    height: 35em;
+    background: linear-gradient(90deg, rgba(117, 116, 116, 0.308) 0%, rgba(214, 7, 121, 0.212)), url(/perfilProfesional/assets/img/fondo.jpg);
+    background-size: 80em;
+    float: right;
+    text-align: center ;
+    color: #fff;
+}
+
+header h1{
+    padding-top: 6em;
+    letter-spacing: 5px;
+    padding-bottom: 20px;
+}
+
+main{
+    background-color: bisque;
+}
+
+.aside{
+    float: left;
+    width: 15%;
+    height: 35em;
+    text-align: center;
+    background-color: rgba(2, 2, 2, 0.877);
+    color: #fff;
+}
+
+.aside #perfil{
+    border-radius: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.aside #menu img{
+    padding-top: 20px;
+    width: 30px;
+    display: inline-block;
+}
+
+.aside #menu a{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    width: 200px;
+    text-align: left;
+}
+
+#menu h4{
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+    height: 10px;
+}
+
+.aside h3{
+    text-align: center;
+    font-size: small;
+    padding-top: 100px;
+}
+
+.inicio{
+    text-align: center;
+    display: inline-block;
+    padding-top: 30px;
+    width: 100%;
+}
+
+.inicio img{
+    display: inline-block;
+    padding-top: 20px;
+}
+
+.inicio ul{
+    display: inline-block;
+    width: 400px;
+}
+
+.inicio li{
+    display: inline-block;
+    width: 400px;
+    padding: 20px;
+}
+
+.acerca{
+    text-align: center;
+    padding-top: 30px;
+    display: block;
+}
+
+.acerca h2{
+    padding-bottom: 20px;
+}
+
+.acerca #parrafo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 500px;
+    display: inline-block;
+    text-align: justify;
+    padding: 10px;
+}
+
+.acerca img{
+    display: inline-block;
+    padding: 20px;
+}
+
+.experiencia{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.experiencia h2{
+    padding-bottom: 40px;
+}
+
+.experiencia table{
+    display: flex;
+    align-items: center;
+    width: 800px;
+    box-sizing: 0;
+}
