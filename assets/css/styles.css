@@ -10,7 +10,7 @@ header{
     background-repeat: no-repeat;
     width: 85%;
     height: 35em;
-    background: linear-gradient(90deg, rgba(117, 116, 116, 0.308) 0%, rgba(214, 7, 121, 0.212)), url(/perfilProfesional/assets/img/fondo.jpg);
+    background: linear-gradient(90deg, rgba(117, 116, 116, 0.308) 0%, rgba(214, 7, 121, 0.212)), url(../perfilProfesional/assets/img/fondo.jpg);
     background-size: 80em;
     float: right;
     text-align: center ;
